@@ -1,0 +1,8 @@
+:root {
+	--my-colorBAL: rgba(247, 128, 101, 1);
+	--my-colorP: rgba(0, 0, 0, 0.5);
+	--my-colorH: rgba(0, 0, 0, 1);
+	--my-background: #F7F7F7;
+	--font-family: 'Montserrat', sans-serif;
+	--font-familyHeadings: 'Merriweather', serif;
+}

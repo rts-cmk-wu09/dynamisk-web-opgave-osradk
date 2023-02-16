@@ -1,0 +1,235 @@
+h1,
+h2,
+h3,
+h4 {
+    font-family: var(--font-familyHeadings);
+    color: var(--my-colorH);
+}
+
+p,
+a {
+    font-family: var(--font-family);
+    color: var(--my-colorP);
+}
+
+h2 {
+    font-size: 39px;
+    font-weight: 700;
+    margin-bottom: 29px;
+}
+
+.heroImg {
+    position: relative;
+}
+
+.iconImg {
+    max-width: 24px;
+    margin-right: 8px;
+}
+
+.heroHeadline span {
+    color: var(--my-colorBAL)
+}
+
+.heroHeadline p {
+    line-height: 24px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.sitesSecondDiv img {
+    max-width: 230px;
+    height: 418px;
+}
+
+.sitesFirstDiv img {
+    max-width: 24px;
+    display: flex;
+    gap: 8 px;
+}
+
+.services img {
+    max-width: 250px;
+    height: 180px;
+    margin-bottom: 84px;
+}
+
+.services h2 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.services h2,
+p,
+a {
+    max-width: 386px;
+}
+
+.button-icon p {
+    color: aliceblue;
+    font-weight: 700;
+    font-size: 18px;
+    margin-left: 7px;
+}
+
+.facilities h3 {
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Merriweather', serif;
+}
+
+.facilitiesDiv li {
+    list-style-type: none;
+    margin-right: 17px;
+}
+
+.facilitiesDiv img {
+    max-width: 32px;
+    margin-bottom: 64px;
+}
+
+.facilitiesDiv h2 {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 27px;
+    font-family: 'Merriweather', serif;
+}
+
+.facilitiesDiv p {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    max-width: 275px;
+    height: 72px;
+    margin-bottom: 16px;
+}
+
+.facilitiesDiv :last-child {
+    color: var(--my-colorBAL);
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.sitesFirstDiv h2 {
+    font-size: 36px;
+}
+
+.sitesFirstDiv p {
+    font-size: 18;
+    line-height: 21px;
+}
+
+.sitesSecondDiv h3 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 24px;
+    margin-bottom: 11px;
+}
+
+.sitesSecondDiv p {
+    font-size: 14px;
+    margin-bottom: 11px;
+}
+
+.sitesSecondDiv a {
+    color: var(--my-colorBAL);
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 11px;
+}
+
+.icon p {
+    color: white;
+    font-size: 20px;
+    font-weight: 500px;
+    line-height: 24px;
+}
+
+.services a {
+    color: var(--my-colorBAL);
+    max-width: 250px;
+    text-decoration: none;
+    padding-top: 25px;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 700;
+ 
+  
+}
+
+.services p {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 500;
+    margin-bottom: 26px;
+}
+
+.footerSecondDiv h2 {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.footerSecondDiv_div p {
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 22px;
+}
+
+.navigation p {
+    margin-right: 529px;
+}
+
+.navigation a {
+    margin-left: 48px;
+}
+
+.advantages h2 {
+    margin-bottom: 108px;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.advantagesDiv img {
+    max-width: 32px;
+    margin-bottom: 64px;
+}
+
+.advantagesDiv h3 {
+    font-size: 22px;
+    font-weight: 700;
+    max-width: 386px;
+    height: 28px;
+    margin-bottom: 52px;
+}
+
+.advantagesDiv p {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.footerFirstDiv {
+    max-width: 304px;
+}
+
+.footerFirstDiv p {
+    font-size: 48px;
+    font-weight: 700;
+    color: var(--my-colorH);
+    font-family: var(--font-familyHeadings);
+}
+
+.footerFirstDiv h1 {
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    margin-bottom: 16px;
+}
+
+hr {
+    border-top: 2px solid lightgray;
+    max-width: 1237px;
+    margin: 0 auto;
+    margin-bottom: 28px;
+}
